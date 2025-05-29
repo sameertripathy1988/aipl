@@ -1,0 +1,61 @@
+.coming-soon {
+  background-color: #0d0d0d;
+  color: #f4f4f4;
+  min-height: 100vh;
+  text-align: center;
+  padding: 5rem 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.coming-soon h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.coming-soon h2 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  color: #ccc;
+}
+
+.launch {
+  font-size: 1.2rem;
+  color: #aaa;
+  margin-bottom: 2rem;
+}
+
+.features {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+  font-size: 1.1rem;
+}
+
+.features li {
+  margin: 0.5rem 0;
+}
+
+.cta {
+  margin-top: 2rem;
+}
+
+.cta input {
+  padding: 0.7rem;
+  width: 250px;
+  border: none;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+}
+
+.cta button {
+  padding: 0.7rem 1.2rem;
+  background-color: #ff4141;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cta button:hover {
+  background-color: #e03232;
+}
