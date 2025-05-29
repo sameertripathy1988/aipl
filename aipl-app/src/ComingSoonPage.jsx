@@ -22,3 +22,4 @@ function ComingSoonPage() {
     </div>
   );
 }
+export default ComingSoonPage;
