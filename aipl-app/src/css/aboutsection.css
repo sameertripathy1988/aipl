@@ -1,0 +1,54 @@
+.about-section {
+  background-color: #000;
+  color: #fff;
+  padding: 5rem 1.5rem;
+  text-align: center;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.founders-container {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.founder-card {
+  background-color: #111;
+  padding: 2rem;
+  border-radius: 1rem;
+  width: 300px;
+  text-align: center;
+}
+
+.founder-image {
+  width: 128px;
+  height: 128px;
+  border-radius: 9999px;
+  object-fit: cover;
+  object-position: top;
+  margin-bottom: 1rem;
+  border: 2px solid #555;
+}
+
+.founder-name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.founder-role {
+  color: #aaa;
+  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+}
+
+.founder-bio {
+  font-size: 1rem;
+  color: #ccc;
+  text-align: center;
+}

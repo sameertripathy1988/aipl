@@ -1,0 +1,40 @@
+.footer-cta {
+  background-color: #000;
+  color: #fff;
+  padding: 5rem 1rem;
+  text-align: center;
+  border-top: 1px solid #555;
+}
+
+.footer-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding-top: 4rem;
+}
+
+.footer-cta h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.footer-cta p {
+  font-size: 1.1rem;
+  color: #ccc;
+  margin-bottom: 1.5rem;
+}
+
+.footer-cta button {
+  background-color: #fff;
+  color: #000;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  font-weight: 500;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.footer-cta button:hover {
+  background-color: #e5e5e5;
+}

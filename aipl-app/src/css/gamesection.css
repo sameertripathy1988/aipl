@@ -1,0 +1,45 @@
+.game-section {
+  background-color: #000;
+  color: #fff;
+  padding: 5rem 1.5rem;
+}
+
+.game-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin-bottom: 6rem;
+  flex-wrap: wrap;
+}
+
+.game-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.game-text {
+  flex: 1;
+  max-width: 500px;
+}
+
+.game-text h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.game-text p {
+  font-size: 1.1rem;
+  color: #ccc;
+}
+
+.game-image {
+  flex: 1;
+  max-width: 600px;
+}
+
+.game-image img {
+  width: 100%;
+  border-radius: 1.25rem;
+  object-fit: cover;
+}
