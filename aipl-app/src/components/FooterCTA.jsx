@@ -7,7 +7,7 @@ const FooterCTA = () => {
         <h2>Join the journey</h2>
         <p>
           Reach out to collaborate.
-          <p>Email: sameer@aadhyainteractive.com</p>
+          <p>Email: info@aadhyainteractive.com</p>
           <p>Company: Aadhya Interactive Private Limited</p>
         </p>
       </div>
